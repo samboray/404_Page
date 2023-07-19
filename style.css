@@ -1,0 +1,44 @@
+body{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Signika Negative', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.error-page{
+    background:linear-gradient(0.40turn, #ffffff46, #00000032, #f63c3c34);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    }
+
+.img-padding{
+    margin-top: 4rem;
+    margin-left: 10rem;
+    width: 50rem;
+    margin-bottom: 1rem;
+}
+
+.error{
+    margin-left: 33rem;
+    width: 5rem;
+    margin-bottom: 1rem;
+}
+
+
+.page404-text{
+   margin: 0 auto;
+   margin-left: 4.4rem;
+   width: 90%;
+   font-size: 3.8rem;
+   text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+    letter-spacing: 6px;
+    color:  #3d3d3df1;
+}
+
+    strong{
+        color: #ff0000;font-size: 3.4rem;
+
+    }
